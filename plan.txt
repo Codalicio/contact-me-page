@@ -6,6 +6,6 @@
 
 4. Deploy Links :
 
-* Github Pages : 
-* Netlify : 
-* Vercel : 
+* Github Pages : https://codalicio.github.io/contact-me-page/
+* Netlify : https://illustrious-cat-838297.netlify.app/
+* Vercel : https://contact-me-page-seven.vercel.app/
